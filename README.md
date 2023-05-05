@@ -3,7 +3,7 @@
 <hr>
 
 - 🔭 I’m currently working on Aurora
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about anything you want
 - 📫 How to reach me notgaba#2142 
